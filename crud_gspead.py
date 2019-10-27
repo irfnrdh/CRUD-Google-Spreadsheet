@@ -1,4 +1,4 @@
-pip3 install gspread oauth2client
+#pip3 install gspread oauth2client
 
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
